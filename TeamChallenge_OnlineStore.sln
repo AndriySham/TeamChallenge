@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamChallenge_OnlineStore.Core", "TeamChallenge_OnlineStore.Core\TeamChallenge_OnlineStore.Core.csproj", "{413B7832-9B1F-447C-8572-C500837B7B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamChallenge_OnlineStore.API", "TeamChallenge_OnlineStore.API\TeamChallenge_OnlineStore.API.csproj", "{DFD6AA59-EAD3-43B1-A3D6-EA56418C4ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413B7832-9B1F-447C-8572-C500837B7B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413B7832-9B1F-447C-8572-C500837B7B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413B7832-9B1F-447C-8572-C500837B7B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413B7832-9B1F-447C-8572-C500837B7B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD6AA59-EAD3-43B1-A3D6-EA56418C4ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD6AA59-EAD3-43B1-A3D6-EA56418C4ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD6AA59-EAD3-43B1-A3D6-EA56418C4ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD6AA59-EAD3-43B1-A3D6-EA56418C4ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8CFC1F4-C107-4F94-B853-9E78C69EDC89}
+	EndGlobalSection
+EndGlobal

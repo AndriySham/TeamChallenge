@@ -1,0 +1,6 @@
+@TeamChallenge_OnlineStore.API_HostAddress = http://localhost:5177
+
+GET {{TeamChallenge_OnlineStore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
