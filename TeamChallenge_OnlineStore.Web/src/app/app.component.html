@@ -1,3 +1,15 @@
 Hello world!
 
+<div>
+    @for(test of tests; track test){
+        <br/>
+        {{test.id}}
+        <br/>
+        {{test.data}}
+        <br/>
+    }
+</div>
+
+<button (click)="onButtonClick()">Click me</button>
+
 <router-outlet />
